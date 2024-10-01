@@ -1,0 +1,16 @@
+{
+  "name": "backend-proj",
+  "version": "1.0.0",
+  "description": "backend project created for learning best industry practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Akshat Pandey",
+  "license": "ISC"
+}
